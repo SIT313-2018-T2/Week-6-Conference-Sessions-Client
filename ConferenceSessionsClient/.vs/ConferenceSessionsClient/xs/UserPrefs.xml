@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{1E0CF7D8-5FE3-4C65-8E42-E8E334990BBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceSessionsClient/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ConferenceSessionsClient/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ConferenceSessionsClient/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="ConferenceSessionsClient/Data/SessionsManager.cs" Line="37" Column="1" />
+      <File FileName="ConferenceSessionsClient/ViewModel/SessionsViewModel.cs" Line="34" Column="23" />
+      <File FileName="ConferenceSessionsClient/View/SessionsPage.xaml" Line="22" Column="1" />
+      <File FileName="ConferenceSessionsClient/View/SessionsPage.xaml.cs" Line="12" Column="25" />
+      <File FileName="ConferenceSessionsClient/App.xaml.cs" Line="12" Column="10" />
+      <File FileName="ConferenceSessionsClient/Model/Session.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConferenceSessionsClient.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04EC2910-42F0-4B63-B720-09C1215F1287" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConferenceSessionsClient.Android PreferredExecutionTarget="Android.Nexus_5X_API_26" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
